@@ -1,15 +1,18 @@
 # ansible-training-chapter-1
 Primeiro capítulo do treinamento Ansible for Devops
+
 Notas:
 Instalado Ansible
+
 Instalado Vagrant
+
 Criada instância EC2 na AWS
   Não relevante para esse exercício
 Criado key-pair na AWS
 Permitir porta 22 (ssh) - já é default
 Dar as permissões para execução do Key-Pair
   chmod 400
-Para o Ansible reconhecer e usar o Ke-Pair
+Para o Ansible reconhecer e usar o Key-Pair
   ssh-add : adicionar pem file.
 
 Arquivo Ansible.cfg
